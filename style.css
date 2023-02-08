@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: consolas;
+}
+body {
+  display: grid;
+  height: 85vh;
+  place-items: center;
+}
+
+div {
+  font-size: 1.6rem;
+  font-weight: 900;
+  padding: 2rem 1rem;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: black;
+  color: rgba(255, 255, 255, 0.823);
+  border-radius: 10px;
+}
